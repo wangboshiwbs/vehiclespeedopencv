@@ -1,0 +1,1 @@
+Here we have to find out the speed of a moving vehicle by comparing images taken from inside of the vehicle
